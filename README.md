@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur Ryan</h1>
 <h3 align="center">A student frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artryan130" alt="artryan130" /></a> </p>
-
 - 🔭 I’m currently working on **IJunior - UFMG**
 
 - 🌱 I’m currently learning **ReactJS, vueJS**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artryan130&show_icons=true&locale=en&layout=compact" alt="artryan130" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artryan130&show_icons=true&locale=en" alt="artryan130" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artryan130&" alt="artryan130" /></p>
