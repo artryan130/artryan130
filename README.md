@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur Ryan</h1>
 <h3 align="center">A student frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **IJunior - UFMG**
+- 🔭 I’m currently working on **Localiza**
 
-- 🌱 I’m currently learning **ReactJS, vueJS**
+- 🌱 I’m currently learning **ReactJS, vueJS, .NET**
 
 - 💬 Ask me about **Front-end**
 
